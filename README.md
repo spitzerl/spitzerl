@@ -2,7 +2,7 @@
 
 ##### I'm Lucas, also know as Pangolino
 
-![](https://komarev.com/ghpvc/?username=pangolino30&color=green&style=for-the-badge)
+<center>![](https://komarev.com/ghpvc/?username=pangolino30&color=green&style=for-the-badge)</center>
 
 <!--
 **pangolino30/pangolino30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
