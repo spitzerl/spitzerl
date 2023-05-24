@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pangolino30&color=green&style=for-the-badge)
 <a href="mailto: spitzerl@proton.me"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=mail&logoColor=white"></a>
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 <!--
 **pangolino30/pangolino30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
