@@ -1,10 +1,10 @@
-## Hi there 👋
+<h1>Hey, welcome on my profile 👋</h1>
 
 ### I'm Lucas, also know as Pangolino
 
-* 👨‍🎓 I’m student in the highschool of LaSalle in terminal class (STI2D sector)
-* 🌱 I’m currently improving my web developpement skills
-* 
+* 🎓 I’m student in the highschool of LaSalle in terminal class (STI2D sector)
+* 🌱 I’m currently improving my web developement skills
+* 💼 My goal is to become Full Stack developer
 
 
 <!--
@@ -12,7 +12,7 @@
 -->
 
 <details>
-	<summary><h3>💼 Used Technologies</h3></summary>
+	<summary><h3>💾 Used Technologies and Tools</h3></summary>
 	<img alt="HTML5 "src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>
 	<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
@@ -22,7 +22,6 @@
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"></img>
 	<img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=Bulma&logoColor=white"></img>
 	<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></img>
-	<br>
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></img>
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img>
 	<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></img>
@@ -35,23 +34,19 @@
 	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"></img>
 	<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></img>
 	<img alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"></img>
-	<img alt="Tailwind" src=""></img>
-	<img alt="Tailwind" src=""></img>
-	<img alt="Tailwind" src=""></img>
-	<img alt="Tailwind" src=""></img>
+	<img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white"></img>
+	<img alt="Replit" src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white"></img>
 </details>
 
-
-
 <details>
-	<summary><h3>💾 Used Operating System</h3></summary>
+	<summary><h3>💻 Used Operating System</h3></summary>
+	<img alt="Ubuntu" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"></img>
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 	<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"></img>
 	<img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"></img>
 	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"></img>
-
 </details>
 
-<h3>Contact</h3>
+<h3>📬 Contact</h3>
 <a href="mailto:spitzerl@proton.me"><img alt="Alt text" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"/></a>
 
