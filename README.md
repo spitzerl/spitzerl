@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Contact
