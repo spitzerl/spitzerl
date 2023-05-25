@@ -2,11 +2,9 @@
 
 ### I'm Lucas, also know as Pangolino
 
-<a href="mailto:spitzerl@proton.me"><img alt="Alt text" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"/></a>
-
-
 * 👨‍🎓 I’m student in the highschool of LaSalle in terminal class (STI2D sector)
 * 🌱 I’m currently improving my web developpement skills
+* 
 
 
 ### Knowledges
@@ -32,6 +30,5 @@
 ![](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Contact
-You can contact me directly on my email address but also through the form on my site
 <a href="mailto:spitzerl@proton.me"><img alt="Alt text" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"/></a>
 
