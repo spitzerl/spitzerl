@@ -13,9 +13,9 @@
 
 <details>
 	<summary><h3>💼 Used Technologies</h3></summary>
-	<img alt="HTML "src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></img>
-	<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
+	<img alt="HTML5 "src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></img>
+	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>
+	<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
 	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"></img>
 	<img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white"></img>
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></img>
@@ -26,7 +26,19 @@
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></img>
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img>
 	<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"></img>
-
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></img>
+	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></img>
+	<img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"></img>
+	<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white"></img>
+	<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"></img>
+	<img alt="OpenStreetMap" src="https://img.shields.io/badge/OpenStreetMap-7EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white"></img>
+	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"></img>
+	<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></img>
+	<img alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white"></img>
+	<img alt="Tailwind" src=""></img>
+	<img alt="Tailwind" src=""></img>
+	<img alt="Tailwind" src=""></img>
+	<img alt="Tailwind" src=""></img>
 </details>
 
 
@@ -40,6 +52,6 @@
 
 </details>
 
-### Contact
+<h3>Contact</h3>
 <a href="mailto:spitzerl@proton.me"><img alt="Alt text" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"/></a>
 
