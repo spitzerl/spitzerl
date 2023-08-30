@@ -48,5 +48,4 @@
 </details>
 
 <h3>📬 Contact</h3>
-<a href="mailto:spitzerl@proton.me"><img alt="Alt text" src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white"/></a>
-
+Discord: @pangolino.dc
