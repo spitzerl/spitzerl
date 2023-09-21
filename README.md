@@ -6,11 +6,6 @@
 * 🌱 I’m currently improving my web developement skills
 * 💼 My goal is to become Full Stack developer
 
-
-<!--
-<img alt="Tailwind" src=""></img>
--->
-
 <details>
 	<summary><h3>💾 Used Technologies and Tools</h3></summary>
 	<img alt="HTML5 "src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></img>
