@@ -48,4 +48,4 @@
 </details>
 
 <h3>📬 Contact</h3>
-Discord: @pangolino.dc
+Discord: @pangolino30
