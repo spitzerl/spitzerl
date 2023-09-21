@@ -1,4 +1,4 @@
-![image](https://github.com/pangolino30/pangolino30/assets/104842840/c2886d63-febf-4788-a406-32b3fb4ae7cc)<h1>Hey, welcome on my profile 👋</h1>
+<h1>Hey, welcome on my profile 👋</h1>
 
 ### I'm Lucas, also know as Pangolino
 
