@@ -44,3 +44,4 @@
 
 <h3>📬 Contact</h3>
 Discord: @pangolino30
+Mail: contact@lucasspitzer.xyz
