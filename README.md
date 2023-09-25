@@ -43,5 +43,5 @@
 </details>
 
 <h3>📬 Contact</h3>
-Discord: @pangolino30
+Discord: @pangolino30\n
 Mail: contact@lucasspitzer.xyz
