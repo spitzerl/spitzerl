@@ -1,13 +1,13 @@
-<h1>Hey, welcome on my profile 👋</h1>
+<h1>Hey, bienvenue sur mon profil 👋</h1>
 
-### I'm Lucas
+### Je m'appelle Lucas
 
-* 🎓 I’m student in the high school of the Gard chamber of commerce and industry (CCI of Nîmes).
-* 🌱 I’m currently improving my web developement skills but I also learn to others things related to informaitc.
-* 💼 My goal is to become Full Stack developer.
+* 🎓 Je suis étudiant en BTS SIO option SLAM
+* 🌱 J'adore apprendre de nouvelles choses, je développe actuellement mes compétences dans le domaine du web.
+* 💼 Mon objectif est de devenir développeur full stack
 
 <details>
-	<summary><h3>💾 Used Technologies and Tools</h3></summary>
+	<summary><h3>💾 Technologies que je connais</h3></summary>
 	<img alt="HTML5 "src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>
 	<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
@@ -34,14 +34,11 @@
 </details>
 
 <details>
-	<summary><h3>💻 Used Operating System</h3></summary>
+	<summary><h3>💻 Systèmes d'exploitation que j'utilise</h3></summary>
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"></img>
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 	<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white"></img>
-	<img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white"></img>
-	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"></img>
-</details>
+	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"></img></details>
 
 <h3>📬 Contact</h3>
-Discord: @pangolino30\n
-Mail: contact@lucasspitzer.xyz
+Mail: contact@lucasspitzer.fr
