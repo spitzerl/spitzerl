@@ -1,6 +1,6 @@
 <h1>Hey, welcome on my profile 👋</h1>
 
-### I'm Lucas, also know as Pangolino
+### I'm Lucas
 
 * 🎓 I’m student in the high school of the Gard chamber of commerce and industry (CCI of Nîmes).
 * 🌱 I’m currently improving my web developement skills but I also learn to others things related to informaitc.
