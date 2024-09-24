@@ -1,8 +1,5 @@
 # 💫 About Me:
 🌱 I’m currently student in BTS SIO SLAM<br>⚡ I’m improving my web developement skills
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasspitzer) 
 
 # 💻 Tech Stack:
